@@ -17,9 +17,10 @@ console.log(1+5 * 11-3); // לפי סדר פעולות מתמטיקה הוא ח�
   console.log(document.getElementById("vor"));
   document.getElementById("vor").innerHTML = console.log ; //שינוי הדף html"
 
+
   console.log(document.getElementById("mo"));
-  document.getElementById("mo").innerHTML = 'good';
+ document.getElementById("mo").innerHTML = 'good';
   console.log(1+5 * 11-6);
  
-  console.log(document.getElementById("agg"));
+ // console.log(document.getElementById("agg"));
   document.getElementById("agg").innerHTML = 'very good';
